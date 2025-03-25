@@ -91,6 +91,13 @@ Version History:
 
 ```
 
+## Things to do
+
+---
+
+Add extension description roll over so you can see a brief description of the add-on/extension
+
+
 Special Thanks:
     - Ziggy
     - Doc
